@@ -33,17 +33,17 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
-global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['94762511600',''] //owner number +27634090203
+global.wame = ['94762511600'] 
+global.pemilik = ['94762511600'] //owner number +27634090203
+global.premium = ['94762511600'] //premium number +27634090203
+global.pengguna = '💆‍♂️𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿_𝚋𝚘𝚝_24/7💆‍' //username
+global.footer = '𝙼𝚒𝚜𝚜 𝚀𝚎𝚎𝚗 𝚆𝙰_𝚋𝚘𝚝'
+global.botnma = '𝙼𝚒𝚜𝚜 𝚀𝚎𝚎𝚗 𝚆𝙰_𝚋𝚘𝚝' //bot name
+global.botname = '𝙼𝚒𝚜𝚜 𝚀𝚎𝚎𝚗 𝚆𝙰_𝚋𝚘𝚝'
+global.ownernma = '💆‍♂️𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿_𝚋𝚘𝚝_24/7💆‍' //owner name
+global.packname = '💆‍♂️𝚆𝙰_𝚋𝚘𝚝_24/7💆‍' //sticker package name
+global.author = '𝙼𝚒𝚜𝚜 𝚀𝚎𝚎𝚗 𝚆𝙰_𝚋𝚘𝚝' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
@@ -55,7 +55,7 @@ global.available = false
 global.unavailable = true
 global.limittot = 100,
 global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
-global.reactmoji = '🇿🇼'
+global.reactmoji = '🇱🇰'
 global.imgjoinrpg = fs.readFileSync('./image/joinrpg.jpg')
 global.imgmining = fs.readFileSync('./image/mining.jpg')
 global.imgdevil = fs.readFileSync('./image/img/devil.jpg')
